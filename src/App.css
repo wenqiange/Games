@@ -1,0 +1,4 @@
+.home-hero{display:flex;align-items:center;gap:18px;padding:18px;border-radius:10px;background:linear-gradient(90deg,#ffffff,#f7f8ff)}
+.home-hero h3{margin:0}
+.games-grid{display:flex;gap:12px;margin-top:14px}
+.game-card{flex:1;padding:16px;border-radius:10px;background:white;box-shadow:0 4px 18px rgba(7,17,84,0.04);cursor:pointer}
